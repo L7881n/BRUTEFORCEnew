@@ -9,6 +9,7 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 # Jangan Recode Ya gayn
 echo
+
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
